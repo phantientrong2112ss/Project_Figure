@@ -1,0 +1,290 @@
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.exe
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.deps.json
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.runtimeconfig.json
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\ref\WA_FigureBSZ.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.pdb
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.Views.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.Views.pdb
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\staticwebassets\WA_FigureBSZ.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\staticwebassets\WA_FigureBSZ.StaticWebAssets.xml
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\scopedcss\bundle\WA_FigureBSZ.styles.css
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.TagHelpers.input.cache
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.TagHelpers.output.cache
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorCoreGenerate.cache
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.Views.pdb
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.CopyComplete
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\ref\WA_FigureBSZ.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.pdb
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.genruntimeconfig.cache
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\appsettings.Development.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\appsettings.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.exe
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.deps.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.runtimeconfig.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.runtimeconfig.dev.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\ref\WA_FigureBSZ.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.pdb
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.Views.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.Views.pdb
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.AssemblyReference.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.AssemblyInfoInputs.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.AssemblyInfo.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.CoreCompileInputs.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.MvcApplicationPartsAssemblyInfo.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorAssemblyInfo.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorAssemblyInfo.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\staticwebassets\WA_FigureBSZ.StaticWebAssets.Manifest.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\staticwebassets\WA_FigureBSZ.StaticWebAssets.xml
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\scopedcss\bundle\WA_FigureBSZ.styles.css
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.TagHelpers.input.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.TagHelpers.output.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorCoreGenerate.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorTargetAssemblyInfo.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorTargetAssemblyInfo.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.Views.pdb
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.CopyComplete
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\ref\WA_FigureBSZ.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.pdb
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\WA_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.genruntimeconfig.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\appsettings.Development.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\appsettings.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.exe
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.deps.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.runtimeconfig.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.runtimeconfig.dev.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\ref\WA_FigureBSZ.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.pdb
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.Views.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.Views.pdb
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.AssemblyReference.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.AssemblyInfoInputs.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.AssemblyInfo.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.CoreCompileInputs.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.MvcApplicationPartsAssemblyInfo.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorAssemblyInfo.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorAssemblyInfo.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\staticwebassets\WA_FigureBSZ.StaticWebAssets.Manifest.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\staticwebassets\WA_FigureBSZ.StaticWebAssets.xml
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\scopedcss\bundle\WA_FigureBSZ.styles.css
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.TagHelpers.input.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.TagHelpers.output.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorCoreGenerate.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorTargetAssemblyInfo.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorTargetAssemblyInfo.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.Views.pdb
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.CopyComplete
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\ref\WA_FigureBSZ.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.pdb
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\nộp bài cuối ngày 12_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.genruntimeconfig.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\appsettings.Development.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\appsettings.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.exe
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.deps.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.runtimeconfig.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.runtimeconfig.dev.json
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\ref\WA_FigureBSZ.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.pdb
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.Views.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.Views.pdb
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.AssemblyReference.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.AssemblyInfoInputs.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.AssemblyInfo.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.CoreCompileInputs.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.MvcApplicationPartsAssemblyInfo.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorAssemblyInfo.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorAssemblyInfo.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\staticwebassets\WA_FigureBSZ.StaticWebAssets.Manifest.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\staticwebassets\WA_FigureBSZ.StaticWebAssets.xml
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\scopedcss\bundle\WA_FigureBSZ.styles.css
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.TagHelpers.input.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.TagHelpers.output.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorCoreGenerate.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorTargetAssemblyInfo.cache
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorTargetAssemblyInfo.cs
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.Views.pdb
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.CopyComplete
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\ref\WA_FigureBSZ.dll
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.pdb
+C:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.genruntimeconfig.cache
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\appsettings.Development.json
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\appsettings.json
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.exe
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.deps.json
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.runtimeconfig.json
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.runtimeconfig.dev.json
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\ref\WA_FigureBSZ.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.pdb
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.Views.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\WA_FigureBSZ.Views.pdb
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.AssemblyReference.cache
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.AssemblyInfoInputs.cache
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.AssemblyInfo.cs
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.CoreCompileInputs.cache
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.MvcApplicationPartsAssemblyInfo.cs
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.MvcApplicationPartsAssemblyInfo.cache
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorAssemblyInfo.cache
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorAssemblyInfo.cs
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\staticwebassets\WA_FigureBSZ.StaticWebAssets.Manifest.cache
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\staticwebassets\WA_FigureBSZ.StaticWebAssets.xml
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\scopedcss\bundle\WA_FigureBSZ.styles.css
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.TagHelpers.input.cache
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.TagHelpers.output.cache
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorCoreGenerate.cache
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorTargetAssemblyInfo.cache
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.RazorTargetAssemblyInfo.cs
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.Views.pdb
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.csproj.CopyComplete
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\ref\WA_FigureBSZ.dll
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.pdb
+D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\obj\Debug\net5.0\WA_FigureBSZ.genruntimeconfig.cache

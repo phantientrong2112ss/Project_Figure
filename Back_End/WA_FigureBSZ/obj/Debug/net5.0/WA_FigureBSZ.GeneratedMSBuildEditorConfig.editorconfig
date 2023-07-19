@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = WA_FigureBSZ
+build_property.ProjectDir = D:\Tổng hợp báo cáo\btlapiweb\Nopbai\bản sửa ngày 26_6\Back_end_FigureBSZ\WA_FigureBSZ\
